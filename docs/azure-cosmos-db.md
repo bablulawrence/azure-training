@@ -26,3 +26,21 @@
 - Azure Cosmos DB transparently partitions your container using the logical partition key that you specify in order to elastically scale your provisioned throughput and storage
 
 [Resource Model](https://docs.microsoft.com/en-us/azure/cosmos-db/account-databases-containers-items)
+
+## Global Distribution
+
+- Azure Cosmos DB is a globally distributed database system that allows you to read and write data from the local replicas of your database.  - Azure Cosmos DB transparently replicates the data to all the regions associated with your Cosmos account.
+- Azure Cosmos DB is a globally distributed database service that's designed to provide low latency, elastic scalability of throughput, well-defined semantics for data consistency, and high availability.
+
+[Global Distribution](https://docs.microsoft.com/en-us/azure/cosmos-db/distribute-data-globally)
+
+## Consistency Levels
+
+- Strong - A client never sees an uncommitted or partial write
+- Bounded staleness - The reads might lag behind writes by at most "K" versions (that is, "updates") of an item or by "T" time interval, whichever is reached first
+- Session - In session consistency, within a single client session reads are guaranteed to honor the consistent-prefix, monotonic reads, monotonic writes, read-your-writes, and write-follows-reads guarantees
+- Consistent prefix - Consistent prefix consistency level guarantees that reads never see out-of-order writes
+- Eventual - In eventual consistency, there's no ordering guarantee for reads. In the absence of any further writes, the replicas eventually converge`
+
+[Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
+
