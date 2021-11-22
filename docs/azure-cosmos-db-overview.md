@@ -40,7 +40,6 @@
 - Bounded staleness - The reads might lag behind writes by at most "K" versions (that is, "updates") of an item or by "T" time interval, whichever is reached first
 - Session - In session consistency, within a single client session reads are guaranteed to honor the consistent-prefix, monotonic reads, monotonic writes, read-your-writes, and write-follows-reads guarantees
 - Consistent prefix - Consistent prefix consistency level guarantees that reads never see out-of-order writes
-- Eventual - In eventual consistency, there's no ordering guarantee for reads. In the absence of any further writes, the replicas eventually converge`
+- Eventual - In eventual consistency, there's no ordering guarantee for reads. In the absence of any further writes, the replicas eventually converge
 
 [Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
-
