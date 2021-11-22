@@ -1,0 +1,38 @@
+{
+   "user_id":691,
+   "first_name":"Bablu",
+   "last_name":"Lawrence",
+   "summary":"Program architect at Mindtree",
+   "region_id":"ind",
+   "industry_id":23,
+   "photo_url":"https://storageaccount779.blob.core.windows.net/profile/308dljl1j2361.JPG",
+   "positions":[
+      {
+         " job_title":"Program Architect",
+         "organization":"Mindtree"
+      },
+      {
+         " job_title":"Solution Architect",
+         "organization":"IBM"
+      }
+   ],
+   "education":[
+      {
+         "college_name":"NIT Calicult",
+         "start":1998,
+         "end":2001
+      },
+      {
+         "college_name":"Aquinas college edakochi",
+         "start":1993,
+         "end":1996
+      }
+   ],
+   "contact_info":{
+      "github":"https://github.com/bablulawrence",
+      "twitter":"https://www.linkedin.com/in/bablulawrence/"
+   }
+}
+
+
+ 
