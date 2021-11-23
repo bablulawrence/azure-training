@@ -83,4 +83,6 @@ There are basically two ways to read data using SQL API.
 
 [Table API Introduction](https://docs.microsoft.com/en-us/azure/cosmos-db/table/introduction)
 
-[Getting Started with Table API](https://willvelida.medium.com/getting-started-with-the-table-api-in-azure-cosmos-db-1509fd52e46b)
+[Getting started with Table API](https://willvelida.medium.com/getting-started-with-the-table-api-in-azure-cosmos-db-1509fd52e46b)
+
+[Getting started with Python](https://docs.microsoft.com/en-gb/azure/cosmos-db/table/how-to-use-python)
