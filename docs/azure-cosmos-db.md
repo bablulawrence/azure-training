@@ -46,7 +46,7 @@
 
 [Consistency Levels](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
 
-## Cosmos DB API Details
+## Cosmos DB API Detail
 
 Following are some of ways you can add data to Cosmos DB.
 
@@ -54,16 +54,30 @@ Following are some of ways you can add data to Cosmos DB.
 
 - Add data using tools like Cosmos DB Data Explorer, Azure Storage Explorer.
 
-- Use Azure Data Factory, Azure Databricks etc.  
+- Use Azure Data Factory, Azure Databricks etc.
 
 ### SQL API
 
 There are basically two ways to read data using SQL API.
 
-- **Point reads** - You can do a key/value lookup on a single item ID and partition key. The item ID and partition key combination is the key and the item itself is the value. For a 1 KB document, point reads typically cost 1 request unit with a latency under 10 ms. *Point reads return a single item*.
+- **Point reads** - You can do a key/value lookup on a single item ID and partition key. The item ID and partition key combination is the key and the item itself is the value. For a 1 KB document, point reads typically cost 1 request unit with a latency under 10 ms. _Point reads return a single item_.
 
-- **SQL queries** - You can query data by writing queries using SQL. Queries always cost at least 2.3 request units and, in general, will have a higher and more variable latency than point reads. *Queries can return many items*
+- **SQL queries** - You can query data by writing queries using SQL. Queries always cost at least 2.3 request units and, in general, will have a higher and more variable latency than point reads. _Queries can return many items_
 
 [Querying with SQL](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/sql-query-getting-started)
 [Data Explorer](https://docs.microsoft.com/en-us/azure/cosmos-db/data-explorer)
 [Copy using ADF](https://docs.microsoft.com/en-us/azure/data-factory/connector-azure-cosmos-db?tabs=data-factory)
+
+### Table API
+
+- Azure Cosmos DB provides the Table API for applications that are written for Azure Table storage and that need premium capabilities like:
+  - Turnkey global distribution.
+  - Dedicated throughput worldwide (when using provisioned throughput).
+  - Single-digit millisecond latencies at the 99th percentile.
+  - Guaranteed high availability.
+  - Automatic secondary indexing.
+  - Azure Tables SDKs are available for .NET, Java, Python, Node.js, and Go. These SDKs can be used to target either Table Storage or Cosmos DB Tables.
+  - _Applications written for Azure Table storage using the Azure Tables SDKs can be migrated to the Azure Cosmos DB Table API with no code changes to take advantage of premium capabilities_.
+
+[Table API Introduction](https://docs.microsoft.com/en-us/azure/cosmos-db/table/introduction)
+[Getting Started with Table API](https://willvelida.medium.com/getting-started-with-the-table-api-in-azure-cosmos-db-1509fd52e46b)
