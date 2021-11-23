@@ -1,0 +1,25 @@
+{
+    "id": "SalesOrder3",
+    "partitionKey": "Account1",
+    "purchase_order_number": "PO15428132600",
+    "order_date": "Mon Jul 12 00:00:00 2005",
+    "due_date": "Thu Jul 22 00:00:00 2005",
+    "shipped_date": "Fri Jul 16 00:00:00 2005",
+    "subtotal": 6107.082,
+    "tax_amount": 586.1203,
+    "freight": 163.1626,
+    "discount_amt": 4982.872,
+    "total_due": 4893.3929,
+    "items": [
+        {
+            "order_qty":2,
+            "product_code": "A-123",
+            "product_name": "Product 1",
+            "currency_symbol": "$",
+            "currency_code": "USD",
+            "unit_price": 17.1,
+            "line_price": 5.7
+        }
+    ],
+    "ttl": 2592000
+}
