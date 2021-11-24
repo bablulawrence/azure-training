@@ -113,4 +113,7 @@ There are basically two ways to read data using SQL API.
 - You can leverage your MongoDB experience and continue to use your favorite MongoDB drivers, SDKs, and tools by pointing your application to the API for MongoDB account's connection string
 
 [Introduction to MongoDB API](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/mongodb-introduction)
+
 [Migrate existing MongoDB Node.Js App](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/create-mongodb-nodejs)
+
+[MongoDB Shell](https://docs.mongodb.com/manual/reference/mongo-shell/)
