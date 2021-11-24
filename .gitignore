@@ -134,3 +134,5 @@ dmypy.json
 #Python virtual environment
 src/sql-python/__pycache__
 src/sql-python/cosmosdb
+
+obj/

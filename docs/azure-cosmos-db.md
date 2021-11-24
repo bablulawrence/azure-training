@@ -86,3 +86,31 @@ There are basically two ways to read data using SQL API.
 [Getting started with Table API](https://willvelida.medium.com/getting-started-with-the-table-api-in-azure-cosmos-db-1509fd52e46b)
 
 [Getting started with Python](https://docs.microsoft.com/en-gb/azure/cosmos-db/table/how-to-use-python)
+
+### Gremlin API
+
+- Azure Cosmos DB provides a graph database service via the Gremlin API on a fully managed database service designed for any scale.
+- You can query the graphs with millisecond latency and evolve the graph structure easily
+- Azure Cosmos DB's Gremlin API is built based on the [Apache TinkerPop](https://tinkerpop.apache.org), a graph computing framework.
+- The Gremlin API in Azure Cosmos DB uses the Gremlin query language.
+
+#### Scenarios where Gremlin API can be useful
+
+- Social networks/Customer 365
+- Recommendation engines
+- Geospatial
+- Internet of Things
+
+[Introduction to Gremlin API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph/graph-introduction)
+
+[Build .Net Application Using Gremlin API](https://docs.microsoft.com/en-us/azure/cosmos-db/graph/create-graph-dotnet)
+
+[Create Graph using Python](https://docs.microsoft.com/en-us/azure/cosmos-db/graph/create-graph-python)
+
+### MongoDB API
+
+- The Azure Cosmos DB API for MongoDB makes it easy to use Cosmos DB as if it were a MongoDB database.
+- You can leverage your MongoDB experience and continue to use your favorite MongoDB drivers, SDKs, and tools by pointing your application to the API for MongoDB account's connection string
+
+[Introduction to MongoDB API](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/mongodb-introduction)
+[Migrate existing MongoDB Node.Js App](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/create-mongodb-nodejs)
