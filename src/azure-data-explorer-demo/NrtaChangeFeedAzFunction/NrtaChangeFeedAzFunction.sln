@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NrtaChangeFeedAzFunction", "NrtaChangeFeedAzFunction.csproj", "{F96BF1FF-B2C9-4E13-9526-E7D57D76340E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96BF1FF-B2C9-4E13-9526-E7D57D76340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96BF1FF-B2C9-4E13-9526-E7D57D76340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96BF1FF-B2C9-4E13-9526-E7D57D76340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96BF1FF-B2C9-4E13-9526-E7D57D76340E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {191140CC-D9B4-4777-AB14-EFAF1A7581B9}
+	EndGlobalSection
+EndGlobal
