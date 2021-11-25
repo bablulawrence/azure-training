@@ -117,3 +117,15 @@ There are basically two ways to read data using SQL API.
 [Migrate existing MongoDB Node.Js App](https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/create-mongodb-nodejs)
 
 [MongoDB Shell](https://docs.mongodb.com/manual/reference/mongo-shell/)
+
+### Azure Data Explorer
+
+- Azure Data Explorer is a fully managed, high-performance, big data analytics platform that makes it easy to analyze high volumes of data in near real time.
+
+- The Azure Data Explorer toolbox gives you an end-to-end solution for data ingestion, query, visualization, and management.
+
+- By analyzing structured, semi-structured, and unstructured data across time series, and by using Machine Learning, Azure Data Explorer makes it simple to extract key insights, spot patterns and trends, and create forecasting models.
+
+[Azure Data Explorer Overview](https://docs.microsoft.com/en-us/azure/data-explorer/data-explorer-overview)
+
+[Cosmos DB and Data Explorer Integration](https://github.com/Azure/azure-kusto-labs/tree/master/cosmosdb-adx-integration)
