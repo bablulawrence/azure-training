@@ -142,7 +142,7 @@ There are basically two ways to read data using SQL API.
   - Use Role-based access control to simplify access to analytics resources
   - Write SQL, Spark or KQL code and integrate with enterprise CI/CD processes
 
-![Overview](./docs/azure-synapse.png)
+![Overview](https://github.com/bablulawrence/azure-training/blob/main/docs/azure-synapse.jpg)
 
 [Azure Synapse Analytics Overview](https://docs.microsoft.com/en-in/azure/synapse-analytics/overview-what-is)
 
