@@ -160,7 +160,7 @@ There are basically two ways to read data using SQL API.
 
 - Databricks Machine Learning is an integrated end-to-end machine learning environment incorporating managed services for experiment tracking, model training, feature development and management, and feature and model serving
 
-![Overview](https://github.com/bablulawrence/azure-training/blob/main/docs/azure-databricks.jpg)
+![Overview](https://github.com/bablulawrence/azure-training/blob/main/docs/azure-databricks.png)
 
 [Azure Databricks Overview](https://docs.microsoft.com/en-in/azure/databricks/scenarios/what-is-azure-databricks)
 [Azure Databricks Product Info](https://databricks.com/product/azure)
