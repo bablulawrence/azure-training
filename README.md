@@ -164,3 +164,4 @@ There are basically two ways to read data using SQL API.
 
 [Azure Databricks Overview](https://docs.microsoft.com/en-in/azure/databricks/scenarios/what-is-azure-databricks)
 [Azure Databricks Product Info](https://databricks.com/product/azure)
+[Mounting ADLS Gen2](https://docs.databricks.com/data/data-sources/azure/adls-gen2/azure-datalake-gen2-sp-access.html)
