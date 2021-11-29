@@ -147,3 +147,18 @@ There are basically two ways to read data using SQL API.
 [Azure Synapse Analytics Overview](https://docs.microsoft.com/en-in/azure/synapse-analytics/overview-what-is)
 
 [Azure Synapse Analytics: A Data Lakehouse](https://www.youtube.com/watch?v=mbHFKS8yf48)
+
+# Azure Databricks
+
+- Azure Databricks is a data analytics platform optimized for the Microsoft Azure cloud services platform.
+
+- Azure Databricks offers three environments for developing data intensive applications: Databricks SQL, Databricks Data Science & Engineering, and Databricks Machine Learning.
+
+- Databricks SQL provides an easy-to-use platform for analysts who want to run SQL queries on their data lake, create multiple visualization types to explore query results from different perspectives, and build and share dashboards
+
+- Databricks Data Science & Engineering provides an interactive workspace that enables collaboration between data engineers, data scientists, and machine learning engineers
+
+- Databricks Machine Learning is an integrated end-to-end machine learning environment incorporating managed services for experiment tracking, model training, feature development and management, and feature and model serving
+
+[Azure Databricks Overview](https://docs.microsoft.com/en-in/azure/databricks/scenarios/what-is-azure-databricks)
+[Azure Databricks Product Info](https://databricks.com/product/azure)
