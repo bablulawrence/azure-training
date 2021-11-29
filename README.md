@@ -167,3 +167,5 @@ There are basically two ways to read data using SQL API.
 [Azure Databricks Product Info](https://databricks.com/product/azure)
 
 [Mounting ADLS Gen2](https://docs.databricks.com/data/data-sources/azure/adls-gen2/azure-datalake-gen2-sp-access.html)
+
+[NYC Taxi Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
