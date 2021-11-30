@@ -8,3 +8,7 @@ g.addV('city').property('id', 'chennai').property('state', 'Tamilnadu').property
 g.V('bablu').addE('knows').to(g.V('ranjith'))
 g.V('bablu').addE('livesin').to(g.V('bengaluru'))
 ```
+
+### ARM Template deployment
+
+az deployment group create --resource-group rg-training --template-file template.json --parameters '@parameters.json'
