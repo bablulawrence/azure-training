@@ -180,6 +180,8 @@ There are basically two ways to read data using SQL API.
 
 - Because all requests are handled through the same API, you see consistent results and capabilities in all the different tools
 
+![Overview](https://github.com/bablulawrence/azure-training/blob/main/docs/azure-resource-manager.jpg)
+
 [Azure Resource Manager Overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 
 [Azure Portal](https://azure.microsoft.com/en-in/features/azure-portal/)
