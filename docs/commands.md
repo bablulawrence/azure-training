@@ -9,6 +9,10 @@ g.V('bablu').addE('knows').to(g.V('ranjith'))
 g.V('bablu').addE('livesin').to(g.V('bengaluru'))
 ```
 
-### ARM Template deployment
+### Azure Resource Manager
 
 az deployment group create --resource-group rg-training --template-file template.json --parameters '@parameters.json'
+
+az storage account create -n storage776 -g rg-training -l southeastasia --sku Standard_LRS
+
+New-AzStorageAccount -ResourceGroupName rg-training -Name storage775 -Location southeastasia -SkuName Standard_RAGRS -Kind StorageV2

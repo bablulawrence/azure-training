@@ -195,3 +195,5 @@ There are basically two ways to read data using SQL API.
 [Azure Resource Manager REST API](https://docs.microsoft.com/en-us/rest/api/resources/)
 
 [Deploying ARM templates with Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-cli)
+
+[Azure Resource Manager Libraries for .Net](https://docs.microsoft.com/en-us/dotnet/api/overview/azure/resource-manager)
