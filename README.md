@@ -169,3 +169,25 @@ There are basically two ways to read data using SQL API.
 [Mounting ADLS Gen2](https://docs.databricks.com/data/data-sources/azure/adls-gen2/azure-datalake-gen2-sp-access.html)
 
 [NYC Taxi Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+# Creating and managing Azure Resources
+
+- Azure Resource Manager is the deployment and management service for Azure.
+
+- It provides a management layer that enables you to create, update, and delete resources in your Azure account. You use management features, like access control, locks, and tags, to secure and organize your resources after deployment.
+
+- When a user sends a request from any of the Azure tools, APIs, or SDKs, Resource Manager receives the request. It authenticates and authorizes the request. Resource Manager sends the request to the Azure service, which takes the requested action.
+
+- Because all requests are handled through the same API, you see consistent results and capabilities in all the different tools
+
+[Azure Resource Manager Overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+
+[Azure Portal](https://azure.microsoft.com/en-in/features/azure-portal/)
+
+[Azure CLI](https://docs.microsoft.com/en-us/cli/azure/what-is-azure-cli)
+
+[Azure Resource Manager PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resources-powershell)
+
+[Using Azure Resource Manager Python SDK](https://docs.microsoft.com/en-us/samples/azure-samples/resource-manager-python-resources-and-groups/manage-azure-resources-and-resource-groups-with-python/)
+
+[Azure Resource Manager REST API](https://docs.microsoft.com/en-us/rest/api/resources/)
