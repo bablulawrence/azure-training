@@ -193,3 +193,5 @@ There are basically two ways to read data using SQL API.
 [Using Azure Resource Manager Python SDK](https://docs.microsoft.com/en-us/samples/azure-samples/resource-manager-python-resources-and-groups/manage-azure-resources-and-resource-groups-with-python/)
 
 [Azure Resource Manager REST API](https://docs.microsoft.com/en-us/rest/api/resources/)
+
+[Deploying ARM templates with Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-cli)
