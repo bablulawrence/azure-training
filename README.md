@@ -197,3 +197,17 @@ There are basically two ways to read data using SQL API.
 [Deploying ARM templates with Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-cli)
 
 [Azure Resource Manager Libraries for .Net](https://docs.microsoft.com/en-us/dotnet/api/overview/azure/resource-manager)
+
+# Instrument WebApp with Application Insights
+
+- Application Insights, a feature of Azure Monitor, is an extensible Application Performance Management (APM) service for developers and DevOps professionals.
+
+- Use it to monitor your live applications. It will automatically detect performance anomalies, and includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app.
+
+- It's designed to help you continuously improve performance and usability.
+
+- It works for apps on a wide variety of platforms including .NET, Node.js, Java, and Python hosted on-premises, hybrid, or any public cloud. It integrates with your DevOps process, and has connection points to a variety of development tools
+
+![Overview](https://github.com/bablulawrence/azure-training/blob/main/docs/application-insights.jpg)
+
+[Application Insights Overview](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
