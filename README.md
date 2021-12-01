@@ -211,3 +211,4 @@ There are basically two ways to read data using SQL API.
 ![Overview](https://github.com/bablulawrence/azure-training/blob/main/docs/application-insights.jpg)
 
 [Application Insights Overview](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+[Deploy a Web App](https://docs.microsoft.com/en-in/azure/app-service/quickstart-dotnetcore?tabs=net60&pivots=development-environment-cli)
