@@ -225,3 +225,5 @@ There are basically two ways to read data using SQL API.
 [Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning)
 
 [Azure Machine Learning SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
+
+[Auto ML](https://docs.microsoft.com/en-gb/azure/machine-learning/tutorial-first-experiment-automated-ml)
